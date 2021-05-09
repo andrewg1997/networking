@@ -8,9 +8,7 @@ To start the server, all you need to do is start it. I just started it in VS cod
 
 For the client, you have commented out code that you can uncomment and comment out another piece to switch which interface you want. You can pass arguments through the command prompt when you call the program or have the program start and enter the two arguments seperatly when prompted. The second option is more user friendly. The instructions are found in comments in the client code.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4dzZSuxMPF8)
 
 # Network Communication
 
@@ -35,7 +33,6 @@ The ends are not used (b' ... ').
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python.org - socketserver](https://docs.python.org/3.6/library/socketserver.html)
 * [Python.org - sockets](https://docs.python.org/3.6/library/socket.html)
 * [YouTube.com - Simple Python Webserver](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
@@ -46,7 +43,6 @@ The ends are not used (b' ... ').
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * RSA encryption instead of AES.
 * Better user interface, but still keep a terminal option.
 * Have the server do more, like transfer files.
